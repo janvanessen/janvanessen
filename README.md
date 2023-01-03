@@ -5,7 +5,10 @@ I’m currently working on ...
 **Coding**
 - [MovieSpot](https://github.com/janvanessen/moviespot) - Movie explorer ([live demo](https://moviespot.onrender.com/))
 - [AvocadoChain](https://github.com/janvanessen/supplychain) - Provenance prototype
-- [Generative Art](https://www.behance.net/janvanessen) - Some artwork drafts with P5.js
+
+**Generative Art**
+- [fxhash](https://www.behance.net/janvanessen) - Generative NFTs
+- [behance](https://www.behance.net/janvanessen) - Some artwork drafts with P5.js
 
 **Writing**
 - [Web3 Reading List](https://janvanessen.medium.com/web3-reading-list-405b03165aed)
