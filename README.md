@@ -7,7 +7,7 @@ I’m currently working on ...
 - [AvocadoChain](https://github.com/janvanessen/supplychain) - Provenance prototype
 
 **Generative Art**
-- [fxhash](https://www.behance.net/janvanessen) - Generative NFTs
+- [fxhash](https://www.fxhash.xyz/u/Jan%20van%20Essen) - Generative NFTs
 - [behance](https://www.behance.net/janvanessen) - Some artwork drafts with P5.js
 
 **Writing**
