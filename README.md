@@ -5,7 +5,7 @@ I’m currently working on ...
 **Coding**
 - [MovieSpot](https://github.com/janvanessen/moviespot) - Movie explorer ([live demo](https://moviespot.onrender.com/))
 - [AvocadoChain](https://github.com/janvanessen/supplychain) - Provenance prototype
-- [Art Discovery](https://github.com/janvanessen/art-discovery) - [Art blocks](https://www.artblocks.io/) frontend via subgraph (TheGraph)
+- [Art Discovery](https://github.com/janvanessen/art-discovery) - Frontend for generative art via subgraph (TheGraph)
 
 **Generative Art**
 - [fxhash](https://www.fxhash.xyz/u/Jan%20van%20Essen) - Generative NFTs
